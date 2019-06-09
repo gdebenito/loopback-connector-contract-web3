@@ -2,4 +2,4 @@
 
 var g = require('strong-globalize')();
 
-module.exports = require('./lib/initialize');
+module.exports = require('./lib/connector');
