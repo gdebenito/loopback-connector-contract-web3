@@ -1,6 +1,6 @@
 {
   "name": "@gdbc/loopback-connector-contract-web3",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "description": "Loopback connector for a contract built on web3",
   "main": "index.js",
   "scripts": {
