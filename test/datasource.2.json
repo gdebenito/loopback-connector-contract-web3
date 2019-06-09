@@ -1,0 +1,12 @@
+{
+	"abi": [],
+	"provider": "ws://localhost:8545",
+	"mnemonic" : {
+		"method" : "file",
+		"value": "test/myMnemonics"
+	},
+	"address": "0x1234567890987654321234567890987654",
+	"options": {
+		"defaultAccount": "0x8DBe6804b175977a387CbA724Ef3fc0F2FD39212"
+	}
+}
